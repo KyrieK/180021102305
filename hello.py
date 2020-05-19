@@ -1,1 +1,0 @@
-print("hello，这是我第一次使用pycharm和git关联起来处理文件")
